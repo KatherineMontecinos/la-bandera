@@ -1,0 +1,20 @@
+div {
+	padding-top: 20px;
+}
+p {
+	width: 200px;
+	height: 100px;	
+	padding: 10px;
+	display: inline;
+	margin-right: 10px;
+}
+
+.dos {
+	background-color: red;
+
+}
+
+.uno {
+	background-color: yellow;
+
+}

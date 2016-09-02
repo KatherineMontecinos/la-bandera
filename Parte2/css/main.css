@@ -1,0 +1,14 @@
+p {
+	width: 200px;
+	height: 100px;	
+	padding: 10px;
+}
+
+.dos {
+	background-color: red;
+}
+
+.uno {
+	background-color: yellow;
+
+}
